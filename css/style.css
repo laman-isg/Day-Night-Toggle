@@ -78,7 +78,6 @@ input:checked[type="checkbox"]::before {
     background: #D4770A;
     background-image: linear-gradient(360deg, #8D6695 5.33%, #D5770A 7.64%, #8D6695 91.12%, #D5770A 91.12%);
     background-size: 1vmin 1vmin;
-
 }
 
 .window-frame {
